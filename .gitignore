@@ -1,0 +1,17 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+runs/
+outputs/
+data/
+LMUData/
+checkpoints/
+*.jsonl
+*.tsv
+*.parquet
+*.safetensors
+*.pt
+*.ckpt

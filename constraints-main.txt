@@ -1,0 +1,12 @@
+# Core versions recorded for the fixed CapPO run.
+torch==2.7.0
+torchvision==0.22.0
+vllm==0.9.1
+transformers==4.52.4
+flash-attn==2.7.4.post1
+ray==2.47.1
+datasets==4.0.0
+tensordict==0.9.1
+liger-kernel==0.5.10
+qwen-vl-utils==0.0.11
+numpy==1.26.4
